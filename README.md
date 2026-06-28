@@ -77,7 +77,10 @@ Add screenshots of the application interface here.
 - Database management with SQLite
 - CRUD (Create, Read, Update, Delete) operations
 - Object-Oriented Programming concepts
+##👩‍💻 Author
+" Dasari Hansika Reddy"
 
+AI & ML Engineering Student
 
 ---
 
