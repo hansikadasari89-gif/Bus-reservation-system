@@ -36,8 +36,8 @@ BUS-YATRA-PYTHON/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/bus-reservation-system.git
+```bash[
+https://github.com/hansikadasari89-gif/Bus-reservation-system/tree/main
 ```
 
 ### 2. Navigate to the project folder
